@@ -1,0 +1,192 @@
+Date: 25/11/2024
+Time: 13:26
+Phone Number: +919130320188
+Message: Hi, here's the latest snapshot!
+--------------------
+Date: 25/11/2024
+Time: 15:5
+Phone Number: +919850715293
+Message: Urgent Alert: Please review the attached snapshot.
+--------------------
+Date: 25/11/2024
+Time: 15:6
+Phone Number: +919850715293
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Attached snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:7
+Phone Number: +919130320188
+Message: Urgent Alert: Please review the attached snapshot.
+--------------------
+Date: 25/11/2024
+Time: 15:7
+Phone Number: +919130320188
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Attached snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:8
+Phone Number: +919130320188
+Message: Urgent Alert: Please review the attached snapshot.
+--------------------
+Date: 25/11/2024
+Time: 15:8
+Phone Number: +919130320188
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Attached snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:11
+Phone Number: +917028481133
+Message: Urgent Alert: Please review the attached snapshot.
+--------------------
+Date: 25/11/2024
+Time: 15:11
+Phone Number: +917028481133
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Attached snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:14
+Phone Number: +917028481133
+Message: Urgent Alert: Please review the attached snapshot.
+--------------------
+Date: 25/11/2024
+Time: 15:14
+Phone Number: +917028481133
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Attached snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:19
+Phone Number: +91('7028481133', '9850715293')
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:19
+Phone Number: +91('7028481133', '9850715293')
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:20
+Phone Number: +91('7028481133', '9850715293')
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:20
+Phone Number: +91('7028481133', '9850715293')
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:22
+Phone Number: +917028481133
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:22
+Phone Number: +917028481133
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:22
+Phone Number: +919850715293
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:22
+Phone Number: +919850715293
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:25
+Phone Number: +917028481133
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:25
+Phone Number: +919850715293
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:25
+Phone Number: +917028481133
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:26
+Phone Number: +919850715293
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:33
+Phone Number: +917028481133
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:34
+Phone Number: +919850715293
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 15:34
+Phone Number: +917028481133
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 15:34
+Phone Number: +919850715293
+Image: E:\Project\data\alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 16:6
+Phone Number: +917028481133
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 16:7
+Phone Number: +919850715293
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 16:7
+Phone Number: +917028481133
+Image: data/alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 16:7
+Phone Number: +919850715293
+Image: data/alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 18:36
+Phone Number: +917028481133
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 18:36
+Phone Number: +919850715293
+Message: Review of Public counting
+--------------------
+Date: 25/11/2024
+Time: 18:36
+Phone Number: +917028481133
+Image: data/alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
+Date: 25/11/2024
+Time: 18:37
+Phone Number: +919850715293
+Image: data/alerts\alert_frame_2318.jpg
+Caption: Snapshot for review.
+--------------------
